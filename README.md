@@ -91,7 +91,7 @@ Through these experiments and the ShopSphere project, I aim to:
 
 ## 👨‍💻 Author
 
-**Nikhil Kumawat**
+**mohit verma**
 
 Computer Science and Engineering Student
 
